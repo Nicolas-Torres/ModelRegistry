@@ -1,4 +1,13 @@
 # Databricks notebook source
+print("hello")
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC SELECT current_timestamp();
+
+# COMMAND ----------
+
 # MAGIC %pip install ..
 
 # COMMAND ----------
